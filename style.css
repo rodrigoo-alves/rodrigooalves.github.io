@@ -1,20 +1,8 @@
 body{
   margin: 0;
   padding: 0;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   font-size: 14;
   background: rgb(51, 49, 49);
   color: #fff;
 }
 
-.background {
-  
-}
-
-.main-image {
-  height: 200px;
-  border-radius: 30px;
-}
