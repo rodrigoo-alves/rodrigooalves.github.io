@@ -1,8 +1,17 @@
 body{
-  margin: 0;
-  padding: 0;
+  font-family: 'Roboto', sa;
   font-size: 14;
   background: rgb(51, 49, 49);
   color: #fff;
 }
 
+.main-image {
+  height: 250px;
+}
+
+.header a {
+  text-align: center;
+  display: inline-block;
+  margin-bottom: 6px;
+  padding-right: 16px;
+}
